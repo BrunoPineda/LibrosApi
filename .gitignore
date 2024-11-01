@@ -1,0 +1,14 @@
+# Archivos y carpetas de Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de compilación
+bin/
+obj/
+
+# Archivos de configuración local
+appsettings.json
+appsettings.Development.json
